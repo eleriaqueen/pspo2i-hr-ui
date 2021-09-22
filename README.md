@@ -21,6 +21,8 @@ Screen Size : 4x
 
 Screen Scaling : Nearest Neighbor
 
+Texture Scaling - Upscale level : Off
+
 As a rule of thumb try to keep Internal Resolution and Screen Size equal. PPSSPP doesn't seem to be currently able to handle InternalRes > ScreenSize gracefully, in my testing I noticed visible artifacts and also had issues with InternalRes < ScreenSize.
 
 If you really must mismatch InternalRes and ScreenSize then you could try setting Screen Scaling to Linear.
@@ -45,7 +47,20 @@ If you really must mismatch InternalRes and ScreenSize then you could try settin
 
 3 - Open "textures.ini" which can be found in the release file alongside "HighRes-UI". You'll need to copy all text which is found after "[Hashes]".
 
-4 - Open __your__ "textures.ini which should already contain Rozalin's data. Paste what you copied previously either right after "[Hashes]" or at the bottom of the file. Don't forget to save your modified "textures.ini".
+4 - Open __your__ "textures.ini which should already contain Rozalin's data. Paste what you copied previously either right after "[Hashes]" or at the bottom of the file. 
+
+4a - To avoid possible conflict, if the following entries are present in the ini file, add a "sharp" glyph (#) to the left of them in order to disable them.
+```
+0000000079c9a4c17b81374e = UI/menu_options
+00000000dd36761c3368107d = UI/menu_options_bg3
+```
+
+```
+# 0000000079c9a4c17b81374e = UI/menu_options
+# 00000000dd36761c3368107d = UI/menu_options_bg3
+```
+
+4b - Don't forget to save your modified "textures.ini".
 
 5 - Enjoy !
 
