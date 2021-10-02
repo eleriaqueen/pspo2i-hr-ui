@@ -27,6 +27,10 @@ As a rule of thumb try to keep Internal Resolution and Screen Size equal. PPSSPP
 
 If you really must mismatch InternalRes and ScreenSize then you could try setting Screen Scaling to Linear.
 
+## How to download
+
+Click on the following link : [Latest Release](https://github.com/eleriaqueen/pspo2i-hr-ui/releases/latest) and download the available release zip file.
+
 ## How to install (If you have no other PSPo2i texture pack)
 1 - Create a folder called "Textures" inside your "PSP" folder.
 
