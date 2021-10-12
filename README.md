@@ -7,11 +7,8 @@ Fan-made high resolution texture pack for Phantasy Star Portable 2 Infinity
 __Meant for use with PPSSPP emulator__
 
 ## Showcase
-<details>
-  <summary>Comparison : Original Ingame UI vs HD</summary>
-![PlayerStatusBarAnimation](https://user-images.githubusercontent.com/4411178/136976474-f2ae865f-0826-4896-a1fa-0d8af9e21553.gif)
-![PlayerPaletteAnimation](https://user-images.githubusercontent.com/4411178/136976487-a951f6e5-0923-4f62-baef-60f2fb91ea7f.gif)
-</details>
+![PlayerStatusBarAnimation](https://user-images.githubusercontent.com/4411178/136978677-782b4bf4-6319-4990-92ad-cb04febe5506.gif)
+![PlayerPaletteAnimation](https://user-images.githubusercontent.com/4411178/136978953-56289cff-0cfd-4b07-be9a-25d63af33edf.gif)
 
 ## Important
 I would ask that you do not create mirrors, re-packs, edits, and that you do not include any file from this project in another project. Thank you.
