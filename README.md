@@ -69,7 +69,7 @@ Click on the following link : [Latest Release](https://github.com/eleriaqueen/ps
 # 00000000dd36761c3368107d = UI/menu_options_bg3
 ```
 
-4b - Don't forget to save your modified "textures.ini".
+4b - Don't forget to save "textures.ini" when you're finished editing it.
 
 5 - Enjoy !
 
