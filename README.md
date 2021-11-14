@@ -56,7 +56,7 @@ Click on the following link : [Latest Release](https://github.com/eleriaqueen/ps
 
 3 - Open "textures.ini" from the "HighRes-UI" zip file. You'll need to copy all text which is found after "[Hashes]".
 
-4 - Open __your__ "textures.ini (the one containing entries related to Rozalin's texture pack). Paste what you copied in the previous step, either right after "[Hashes]" or at the bottom of the file. 
+4 - Open __your__ "textures.ini" (containing entries related to Rozalin's texture pack). Paste what you copied in the previous step, either right after "[Hashes]" or at the bottom of the file. 
 
 4a - Don't forget to save "textures.ini" when you're finished editing it.
 
