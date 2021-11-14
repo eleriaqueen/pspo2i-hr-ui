@@ -54,22 +54,11 @@ Click on the following link : [Latest Release](https://github.com/eleriaqueen/ps
 
 2 - Open the latest release file and extract the folder called "HighRes-UI" to __your__ "NPJH50332" folder.
 
-3 - Open "textures.ini" which can be found in the release file alongside "HighRes-UI". You'll need to copy all text which is found after "[Hashes]".
+3 - Open "textures.ini" from the "HighRes-UI" zip file. You'll need to copy all text which is found after "[Hashes]".
 
-4 - Open __your__ "textures.ini which should already contain Rozalin's data. Paste what you copied previously either right after "[Hashes]" or at the bottom of the file. 
+4 - Open __your__ "textures.ini (the one containing entries related to Rozalin's texture pack). Paste what you copied in the previous step, either right after "[Hashes]" or at the bottom of the file. 
 
-4a - To avoid possible conflict, if the following entries are present in the ini file, add a "sharp" glyph (#) to the left of them in order to disable them.
-```
-0000000079c9a4c17b81374e = UI/menu_options
-00000000dd36761c3368107d = UI/menu_options_bg3
-```
-
-```
-# 0000000079c9a4c17b81374e = UI/menu_options
-# 00000000dd36761c3368107d = UI/menu_options_bg3
-```
-
-4b - Don't forget to save "textures.ini" when you're finished editing it.
+4a - Don't forget to save "textures.ini" when you're finished editing it.
 
 5 - Enjoy !
 
