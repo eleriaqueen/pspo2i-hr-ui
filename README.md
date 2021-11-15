@@ -8,6 +8,7 @@ __Meant for use with PPSSPP emulator__
 
 ## Showcase
 <details>
+  <summary>GIF images</summary>
   
   ![Showcase A](showcase_a.gif)
   
