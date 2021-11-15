@@ -41,7 +41,7 @@ If you really must mismatch InternalRes and ScreenSize then you could try settin
 
 ## How to download
 
-Click on the following link : [Latest Release](https://github.com/eleriaqueen/pspo2i-hr-ui/releases/latest) and download the available release zip file.
+Click on the link : [Latest Release](https://github.com/eleriaqueen/pspo2i-hr-ui/releases/latest) and download the available release zip file.
 
 ## How to install
 <details>
