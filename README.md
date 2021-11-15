@@ -49,7 +49,7 @@ Click on the following link : [Latest Release](https://github.com/eleriaqueen/ps
 
 4 - Voilà, have fun!
 
-## How to install (If you're using Rozalin's PSPo2i texture pack)
+## How to install (If you're using Rozalin's "PSPo2i Texture Restoration" pack)
 1 - You should already have a folder called "Textures", inside it should be a folder called "NPJH50332".
 
 2 - Open the latest release file and extract the folder called "HighRes-UI" to __your__ "NPJH50332" folder.
