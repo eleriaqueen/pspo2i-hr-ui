@@ -1,4 +1,4 @@
-[![PSPo2i-hr-ui](/logo.svg)](https://github.com/eleriaqueen/pspo2i-highres-ui)
+[![PSPo2i-hr-ui](/logo.svg)](https://github.com/eleriaqueen/pspo2i-hr-ui/releases/latest)
 
 ## Description
 Fan-made high resolution texture pack for Phantasy Star Portable 2 Infinity
