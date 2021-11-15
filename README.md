@@ -62,13 +62,15 @@ Click on the following link : [Latest Release](https://github.com/eleriaqueen/ps
 
 5 - Enjoy !
 
-## Why does this or that texture pack stop working after I update one of them ? 
+## Why does this or that texture pack stop working after updating one of them ? 
 
-Everytime either Rozalin or I add a file to either of our project we have to modify our "textures.ini" file which means we potentially include an updated one with a new release. 
+Everytime either Rozalin or I add a file to either of our project we have to modify our "textures.ini" file which means we potentially include an updated one with a new release.
 
-### How do I prevent that from happening ?
+An issue often arises when one overwrites their current ini file with one from a texture pack they want to update.
 
-If you want to successfully update either pack :
+As long as PPSSPP does not support multiple ini files per game (one for each texture pack) the user needs to merge them.
+
+## How to successfully update either PSPo2i texture pack
 
 1 - Make sure you grab latest Rozalin's latest "Texture Restoration" pack
 
