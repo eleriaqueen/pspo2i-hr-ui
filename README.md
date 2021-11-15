@@ -62,10 +62,13 @@ Click on the following link : [Latest Release](https://github.com/eleriaqueen/ps
 
 5 - Enjoy !
 
-## Prevent the ingame UI or textures reverting to the original when updating Rozalin's "PSPo2i Texture Restoration" pack or updating my "HighRes-UI" pack
+## Why does this or that texture pack stop working after I update one of them ? 
+
 Everytime either Rozalin or I add a file to either of our project we have to modify our "textures.ini" file which means we potentially include an updated one with a new release. 
 
-If you want to ensure success, when updating either pack do the following : 
+### How do I prevent that from happening ?
+
+If you want to successfully update either pack :
 
 1 - Make sure you grab latest Rozalin's latest "Texture Restoration" pack
 
