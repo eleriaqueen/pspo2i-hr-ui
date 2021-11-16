@@ -4,7 +4,7 @@
 Fan-made high resolution texture pack for Phantasy Star Portable 2 Infinity
 
 __Meant for use with PPSSPP emulator__
-
+  
 ## Showcase
 <details>
   <summary>GIF images</summary>
@@ -18,23 +18,23 @@ __Meant for use with PPSSPP emulator__
 I would ask that you do not create mirrors, re-packs, edits, and that you do not include any file from this project in another project. Thank you.
 
 If you want to publish a link to this project please link to the main page of the repository not to the releases section.
-
+  
 <details>
   <summary>Resolution / Screen Size / Emulator Quirks</summary>
   
 Current release(s) target the following settings (on a 1920x1080 screen) :
-
+  
+  
+```
 Full Screen Mode : On
-
 Internal resolution : 4x
-
 Screen Size : 4x
-
 Screen Scaling : Nearest Neighbor
-
 Texture Scaling - Upscale level : Off
-
-As a rule of thumb try to keep Internal Resolution and Screen Size equal. PPSSPP doesn't seem to be currently able to handle InternalRes > ScreenSize gracefully, in my testing I noticed visible artifacts and also had issues with InternalRes < ScreenSize.
+```
+As a rule of thumb try to keep Internal Resolution and Screen Size equal.
+  
+PPSSPP doesn't seem to be currently able to handle InternalRes > ScreenSize gracefully, in my testing I noticed visible artifacts and also had issues with InternalRes < ScreenSize.
 
 If you really must mismatch InternalRes and ScreenSize then you could try setting Screen Scaling to Linear.
 </details>
@@ -48,15 +48,15 @@ Click on the link : [Latest Release](https://github.com/eleriaqueen/pspo2i-hr-ui
     <summary>If you have no other PSPo2i texture pack</summary>
   
 1 - Create a folder called "Textures" inside your "PSP" folder.
-
+  
 2 - Extract the latest release inside "Textures" folder.
-
+  
 3 - Boot up PPSSPP and go to Settings->Tools->Developer Tools->Replace Textures. Make sure this is checked !
-
+  
 3a - Unless you know what you're doing, option "Save New Textures" should not be checked. (It significantly degrades performance)
-
+  
 3b - You can map "Texture Replacement" function to a key to compare the original UI to the high-res one at the press of a button.
-
+  
 4 - Voilà, have fun!
 </details>
 
@@ -81,9 +81,9 @@ Click on the link : [Latest Release](https://github.com/eleriaqueen/pspo2i-hr-ui
     <summary>Why does this or that texture pack stop working after updating one of them ?</summary>
 
 Everytime either Rozalin or I add a file to either of our project we have to modify our "textures.ini" file which means we potentially include an updated one with a new release.
-
+  
 An issue often arises when one overwrites their current ini file with one from a texture pack they want to update.
-
+  
 As long as PPSSPP does not support multiple ini files per game (one for each texture pack) the user needs to merge them.
 </details>
 
@@ -106,6 +106,7 @@ As long as PPSSPP does not support multiple ini files per game (one for each tex
 </details>
 
 ## Found an issue ?
+
 Post in the [Issues](https://github.com/eleriaqueen/pspo2i-highres-ui/issues) section, please make the report as detailed as possible so that I may fix whatever needs fixing.
 
 If possible, include picture(s) which illustrate the issue.
